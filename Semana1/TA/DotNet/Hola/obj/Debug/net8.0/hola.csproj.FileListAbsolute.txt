@@ -1,0 +1,15 @@
+C:\Users\GATEWAY\Documents\Nueva carpeta\github\DeberesObjetos\Semana1\TA\DotNet\hola\bin\Debug\net8.0\hola.exe
+C:\Users\GATEWAY\Documents\Nueva carpeta\github\DeberesObjetos\Semana1\TA\DotNet\hola\bin\Debug\net8.0\hola.deps.json
+C:\Users\GATEWAY\Documents\Nueva carpeta\github\DeberesObjetos\Semana1\TA\DotNet\hola\bin\Debug\net8.0\hola.runtimeconfig.json
+C:\Users\GATEWAY\Documents\Nueva carpeta\github\DeberesObjetos\Semana1\TA\DotNet\hola\bin\Debug\net8.0\hola.dll
+C:\Users\GATEWAY\Documents\Nueva carpeta\github\DeberesObjetos\Semana1\TA\DotNet\hola\bin\Debug\net8.0\hola.pdb
+C:\Users\GATEWAY\Documents\Nueva carpeta\github\DeberesObjetos\Semana1\TA\DotNet\hola\obj\Debug\net8.0\hola.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\GATEWAY\Documents\Nueva carpeta\github\DeberesObjetos\Semana1\TA\DotNet\hola\obj\Debug\net8.0\hola.AssemblyInfoInputs.cache
+C:\Users\GATEWAY\Documents\Nueva carpeta\github\DeberesObjetos\Semana1\TA\DotNet\hola\obj\Debug\net8.0\hola.AssemblyInfo.cs
+C:\Users\GATEWAY\Documents\Nueva carpeta\github\DeberesObjetos\Semana1\TA\DotNet\hola\obj\Debug\net8.0\hola.csproj.CoreCompileInputs.cache
+C:\Users\GATEWAY\Documents\Nueva carpeta\github\DeberesObjetos\Semana1\TA\DotNet\hola\obj\Debug\net8.0\hola.sourcelink.json
+C:\Users\GATEWAY\Documents\Nueva carpeta\github\DeberesObjetos\Semana1\TA\DotNet\hola\obj\Debug\net8.0\hola.dll
+C:\Users\GATEWAY\Documents\Nueva carpeta\github\DeberesObjetos\Semana1\TA\DotNet\hola\obj\Debug\net8.0\refint\hola.dll
+C:\Users\GATEWAY\Documents\Nueva carpeta\github\DeberesObjetos\Semana1\TA\DotNet\hola\obj\Debug\net8.0\hola.pdb
+C:\Users\GATEWAY\Documents\Nueva carpeta\github\DeberesObjetos\Semana1\TA\DotNet\hola\obj\Debug\net8.0\hola.genruntimeconfig.cache
+C:\Users\GATEWAY\Documents\Nueva carpeta\github\DeberesObjetos\Semana1\TA\DotNet\hola\obj\Debug\net8.0\ref\hola.dll
