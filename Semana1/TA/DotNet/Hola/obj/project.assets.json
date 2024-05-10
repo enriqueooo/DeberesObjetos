@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\GATEWAY\\Documents\\deberesObjetos2\\DeberesObjetos\\Semana1\\TA\\DotNet\\Hola\\hola.csproj",
+      "projectUniqueName": "C:\\Users\\GATEWAY\\Documents\\deberesObjetos2\\DeberesObjetos\\Semana3\\DeberesObjetos\\Semana1\\TA\\DotNet\\Hola\\hola.csproj",
       "projectName": "hola",
-      "projectPath": "C:\\Users\\GATEWAY\\Documents\\deberesObjetos2\\DeberesObjetos\\Semana1\\TA\\DotNet\\Hola\\hola.csproj",
+      "projectPath": "C:\\Users\\GATEWAY\\Documents\\deberesObjetos2\\DeberesObjetos\\Semana3\\DeberesObjetos\\Semana1\\TA\\DotNet\\Hola\\hola.csproj",
       "packagesPath": "C:\\Users\\GATEWAY\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\GATEWAY\\Documents\\deberesObjetos2\\DeberesObjetos\\Semana1\\TA\\DotNet\\Hola\\obj\\",
+      "outputPath": "C:\\Users\\GATEWAY\\Documents\\deberesObjetos2\\DeberesObjetos\\Semana3\\DeberesObjetos\\Semana1\\TA\\DotNet\\Hola\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\GATEWAY\\AppData\\Roaming\\NuGet\\NuGet.Config"
