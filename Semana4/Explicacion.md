@@ -48,3 +48,5 @@ El modificador se calcula restando 10 del valor de la habilidad y dividiendo el 
 Conclusiones:
 Este código proporciona una forma de generar aleatoriamente estadísticas de habilidades y calcular los puntos de golpe para un personaje de D&D.
 La implementación utiliza métodos estáticos para encapsular la lógica de generación de habilidades y cálculo de modificadores, lo que facilita su reutilización y mantenimiento.
+
+Link del video: https://youtu.be/O__j14jZrbw

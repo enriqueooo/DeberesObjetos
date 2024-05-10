@@ -42,3 +42,5 @@ Devuelve true si el tamaño del conjunto es 26, lo que indica que todas las letr
 Conclusiones:
 Este código proporciona una solución eficiente para determinar si una cadena es un pangrama.
 Utiliza conjuntos para facilitar la comparación y el filtrado de letras, lo que resulta en un código conciso y legible.
+
+Link del video: https://youtu.be/TOYLmBoJK9A

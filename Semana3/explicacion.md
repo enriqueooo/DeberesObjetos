@@ -45,3 +45,5 @@ Devuelve la cadena de ARN resultante después de haber procesado todos los nucle
 Conclusiones:
 Este código proporciona una solución efectiva para convertir cadenas de ADN en cadenas de ARN utilizando un mapeo predefinido.
 Las pruebas de presencia de nucleótidos desconocidos garantizan que la función maneje correctamente las entradas inválidas.
+
+Link del video: https://youtu.be/RNkxTaYNfC8
